@@ -36,7 +36,7 @@ a {
   margin: 0 auto; }
 
 .subtitle {
-  font-size: 18px;
+  font-size: 17px;
   color: #222222;
   opacity: 0.7;
   line-height: 28px; }
@@ -149,10 +149,11 @@ li:hover .submenu {
     top: 0px; }
 
 .intro__title {
+  width: 500px;
   padding-top: 85px; }
   .intro__title h1 {
     font-weight: bold;
-    font-size: 60px;
+    font-size: 58px;
     color: #151515;
     letter-spacing: -1px; }
   .intro__title .subtitle {
